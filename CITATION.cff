@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper below."
+title: "UnbinnedCorrelation"
+type: software
+authors:
+  - family-names: "Desai"
+    given-names: "Krish"
+repository-code: "https://github.com/krishdesai7/UnbinnedCorrelation"
+url: "https://github.com/krishdesai7/UnbinnedCorrelation"
+abstract: "Code and notebooks accompanying the paper 'Unbinned Inference with Correlated Events'."
+keywords:
+  - "unbinned inference"
+  - "correlated events"
+  - "statistics"
+  - "high-energy physics"
+  - "particle physics"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Desai"
+      given-names: "Krish"
+    - family-names: "Long"
+      given-names: "Owen"
+    - family-names: "Nachman"
+      given-names: "Benjamin"
+  title: "Unbinned Inference with Correlated Events"
+  journal: "European Physical Journal C"
+  volume: 85
+  pages: 1089
+  date-published: 2025-10-01
+  doi: "10.1140/epjc/s10052-025-14835-1"
